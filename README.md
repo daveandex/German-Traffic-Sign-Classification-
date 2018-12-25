@@ -1,7 +1,7 @@
 # Traffic sign classification using CNN
 Classification of German traffic signs using convolutional neural network. This is a basic algorithm with a simple data preprocessing but without data augmentation and hyperparameter tuning.  
 
-The model achieved a test probability of **97.9%** accuracy. 
+The model achieved a test accuracy of **97.9%**. 
 
 ## The Dataset
 
