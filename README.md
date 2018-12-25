@@ -28,6 +28,6 @@ To minimize overfitting, dropout was added on the fully connected layers and on 
 
 * Data Augmentation and class balancing
 * Further preprocessing
-* hyperparameter tuning
+* fine-tuning
 
  
