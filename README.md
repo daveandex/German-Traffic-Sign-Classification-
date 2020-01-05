@@ -29,5 +29,6 @@ To minimize overfitting, dropout was added on the fully connected layers and on 
 * Data Augmentation and class balancing
 * Further preprocessing
 * fine-tuning
+* Transfer Learning would definetly be another approach 
 
  
